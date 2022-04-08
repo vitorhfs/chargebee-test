@@ -1,0 +1,7 @@
+{
+  "name": "chargebee-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
